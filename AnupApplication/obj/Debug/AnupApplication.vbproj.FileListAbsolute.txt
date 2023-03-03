@@ -1,0 +1,13 @@
+C:\Users\12365\vb_net_basics\AnupApplication\bin\Debug\AnupApplication.exe.config
+C:\Users\12365\vb_net_basics\AnupApplication\bin\Debug\AnupApplication.exe
+C:\Users\12365\vb_net_basics\AnupApplication\bin\Debug\AnupApplication.pdb
+C:\Users\12365\vb_net_basics\AnupApplication\bin\Debug\AnupApplication.xml
+C:\Users\12365\vb_net_basics\AnupApplication\obj\Debug\AnupApplication.vbproj.AssemblyReference.cache
+C:\Users\12365\vb_net_basics\AnupApplication\obj\Debug\AnupApplication.vbproj.SuggestedBindingRedirects.cache
+C:\Users\12365\vb_net_basics\AnupApplication\obj\Debug\AnupApplication.Form1.resources
+C:\Users\12365\vb_net_basics\AnupApplication\obj\Debug\AnupApplication.Resources.resources
+C:\Users\12365\vb_net_basics\AnupApplication\obj\Debug\AnupApplication.vbproj.GenerateResource.cache
+C:\Users\12365\vb_net_basics\AnupApplication\obj\Debug\AnupApplication.vbproj.CoreCompileInputs.cache
+C:\Users\12365\vb_net_basics\AnupApplication\obj\Debug\AnupApplication.exe
+C:\Users\12365\vb_net_basics\AnupApplication\obj\Debug\AnupApplication.xml
+C:\Users\12365\vb_net_basics\AnupApplication\obj\Debug\AnupApplication.pdb
